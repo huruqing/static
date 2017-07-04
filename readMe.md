@@ -15,10 +15,10 @@
 
 
 5) 自动刷新页面
-a, 下载包https://github.com/huruqing/static.git
-b, 使用shell或者命令提示符进入项目目录
-c, 执行nam install
-d, 执行gulp
-e, 打开http://localhost:8080/demo.html,当修改demo.less代码时,页面就会发生改变
+* 下载包https://github.com/huruqing/static.git
+* 使用shell或者命令提示符进入项目目录
+* 执行nam install
+* 执行gulp
+* 打开http://localhost:8080/demo.html,当修改demo.less代码时,页面就会发生改变
 
 
